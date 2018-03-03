@@ -42,7 +42,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="CFG.cs" />
+    <Compile Include="Language2.cs" />
+    <Compile Include="Language1.cs" />
+    <Compile Include="Language3.cs" />
+    <Compile Include="Language4.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
